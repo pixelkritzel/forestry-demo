@@ -1,4 +1,6 @@
 ---
+pages:
+- wtf.html
 hide_body: false
 is_partial: false
 fields:
